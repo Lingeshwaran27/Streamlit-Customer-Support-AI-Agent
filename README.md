@@ -30,9 +30,7 @@ An AI-powered customer support assistant built with **Streamlit**, **OpenAI (via
 
 ## 📸 Demo Screenshot
 
-> _(Optional - add an `assets/chat_demo.png` and uncomment below)_
-
-<!-- ![Chat Demo](assets/chat_demo.png) -->
+![Chat Demo](assets/home.png)
 
 ---
 
